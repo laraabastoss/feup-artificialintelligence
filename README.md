@@ -6,9 +6,15 @@ year 3, semestre 2
 
 ### Project 1 - "Even More Pizza" Google Hash Code 2021 (Grade: 20.0/20)
 
-Implementation of multiple optimization algorithms, including Simulated Annealing, Genetic ALgorithms and Guided Local Search,  to solve the "Even More Pizza" challenge from the Google Hash Code competition. Implementation of a GUI to choose the algorithms, datasets and parameters to run.
+Implementation of multiple optimization algorithms, including Simulated Annealing, Genetic Algorithms and Guided Local Search, to solve the "Even More Pizza" challenge from the Google Hash Code competition. Implementation of a GUI to choose the algorithms, datasets and parameters to run.
 
 **Technologies Used:** Python
+
+#### Developed by:
+
+    Guilherme Santos  up202105090
+    Lara Bastos up202108740
+    Miguel Barros up202108678
 
 **Project Repository:**  https://github.com/laraabastoss/feup-artificialintelligence/tree/main/proj1
 
@@ -21,9 +27,9 @@ Prediction of customer churning in a bank using supervised learning classifiers.
 
 #### Developed by:
 
-    Lara Bastos     up202108740
-    Guilherme Santos     up202108741
-    Miguel Barros   up202108678
+    Guilherme Santos  up202105090
+    Lara Bastos up202108740
+    Miguel Barros up202108678
 
 **Project Repository:**  https://github.com/laraabastoss/feup-artificialintelligence/tree/main/proj2
 
